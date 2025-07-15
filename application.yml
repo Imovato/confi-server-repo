@@ -1,3 +1,12 @@
+ead:
+  serviceRegistry:
+    username:un_user
+    password:un_user
+  auth:
+    jwtSecret: a7w!z%C*F-JaNdRgUkXp2s5v8x/A?D(G+KbPeShVmYq3t6w9z$B&E)H@McQfTjWs
+    jwtExpirationMs: 14400000
+
+
 eureka:
   client:
     registerWithEureka: true
