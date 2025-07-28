@@ -9,6 +9,6 @@ spring:
           lower-case-service-id: true
 
 server:
-  port: 8689
+  port: 8989
 
 
