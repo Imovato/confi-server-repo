@@ -43,5 +43,12 @@ ead:
     username: un_user
     password: 'un_user'
 
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    prefer-ip-address: true
+
 app:
   uploads-dir: C:/Users/Samuel Modesto/OneDrive/Documentos/Projetos/TCC/imovato/backend/cadastral/uploads/imoveis
