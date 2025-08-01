@@ -47,4 +47,4 @@ eureka:
     instance-id: ${spring.application.name}:${random.uuid}
 
 app:
-  uploads-dir: C:/Users/Samuel Modesto/OneDrive/Documentos/Projetos/TCC/imovato/backend/cadastral/uploads/imoveis
+  uploads-dir: C:\Users\JabutiAzul\OneDrive\Documentos\GitHub\backend\cadastral\uploads\imoveis
